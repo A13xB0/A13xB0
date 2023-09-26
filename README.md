@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @A13xB0
+- 👋 Hi, I’m @A13xB0, this is my work account
 - 👀 I’m interested in Go 
 - 🌱 I’m currently learning about the financial technology sector
-- 📫 How to reach me Alex.Bolton@cushon.co.uk
 
 <!---
 A13xB0/A13xB0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
